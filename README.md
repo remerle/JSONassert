@@ -1,5 +1,6 @@
 JSONassert
 ==========
+test
 
 Write JSON unit tests in less code.  Great for testing REST interfaces.
 
